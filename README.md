@@ -1,2 +1,4 @@
 # First-github-project
-Author-Akansha Atole
+Author-Akansha Atole(self)
+
+Akansha
